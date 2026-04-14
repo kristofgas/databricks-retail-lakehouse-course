@@ -1,0 +1,11 @@
+customer_id,customer_name,customer_segment,signup_date,country
+CUST-001,Jan de Vries,premium,2023-03-15,Netherlands
+CUST-002,Anna Schmidt,regular,2023-06-20,Germany
+CUST-003,Pierre Dupont,regular,2023-07-01,France
+CUST-004,Marie Janssen,premium,2023-01-10,Belgium
+CUST-005,Klaus Weber,regular,2023-09-05,Germany
+CUST-006,Emma Bakker,new,2024-01-02,Netherlands
+CUST-007,Carlos Garcia,regular,2023-11-12,Spain
+CUST-008,Sofia Rossi,new,2024-01-10,Italy
+CUST-009,Thomas Müller,premium,2022-12-01,Germany
+CUST-010,Camille Martin,regular,2023-04-22,France

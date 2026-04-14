@@ -1,0 +1,11 @@
+product_id,product_name,category,brand
+PROD-001,Wireless Mouse,Electronics,TechCo
+PROD-002,Bluetooth Headphones,Electronics,SoundWave
+PROD-003,Notebook A5,Office Supplies,PaperPlus
+PROD-004,Ballpoint Pen Pack,Office Supplies,PaperPlus
+PROD-005,Running Shoes,Sportswear,ActiveGear
+PROD-006,Yoga Mat,Sportswear,ActiveGear
+PROD-007,Backpack Pro,Bags,UrbanCarry
+PROD-008,Smart Watch,Electronics,TechCo
+PROD-009,Water Bottle 750ml,Sports Accessories,ActiveGear
+PROD-010,Phone Case,Accessories,TechCo

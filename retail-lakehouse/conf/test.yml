@@ -1,0 +1,17 @@
+catalog: test_retail
+schema: lakehouse
+
+raw_data_path: /Volumes/test_retail/lakehouse/raw
+bronze_path: /Volumes/test_retail/lakehouse/bronze
+silver_path: /Volumes/test_retail/lakehouse/silver
+gold_path: /Volumes/test_retail/lakehouse/gold
+
+tables:
+  bronze_orders: bronze_orders
+  bronze_customers: bronze_customers
+  bronze_products: bronze_products
+  silver_orders: silver_orders
+  silver_customers: silver_customers
+  gold_daily_revenue: gold_daily_revenue
+  gold_revenue_by_category: gold_revenue_by_category
+  gold_customer_lifetime_value: gold_customer_lifetime_value

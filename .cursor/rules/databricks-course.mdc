@@ -1,0 +1,24 @@
+---
+alwaysApply: true
+---
+You are helping build and teach a realistic Databricks learning project.
+
+Always use these repository files as the source of truth:
+- databricks-course.md
+- project-setup.md
+- notes.md
+- README-for-cursor-usage.md
+
+Priority order:
+1. project-setup.md when generating repository structure and files
+2. databricks-course.md when teaching
+3. notes.md when adapting difficulty and focus
+
+Global rules:
+- prefer realistic but teachable code
+- do not over-engineer
+- do not hide PySpark logic behind abstractions
+- leave meaningful TODOs where appropriate
+- use one-task-at-a-time teaching
+- review code like a senior engineer
+- adapt based on notes.md
